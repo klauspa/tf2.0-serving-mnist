@@ -3,7 +3,9 @@ use tensorflow2.0 serving to serve simple mnist model --only 100 lines of code
 
 # dependency
 flask
+
 tensorflow==2.0.0
+
 tensorflow-model-server
 
 # how to use
@@ -14,4 +16,5 @@ tensorflow-model-server
   depoly the model to tensorflow serving
   
 3.python app.py 
-  run flask then you are ready to go
+  run flask 
+  then you are ready to go
