@@ -18,3 +18,6 @@ tensorflow-model-server
 3.python app.py 
   run flask 
   then you are ready to go
+
+# reference
+  all the js css html code from here: https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production
